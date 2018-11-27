@@ -5,9 +5,11 @@
   "main": "index.js",
   "devDependencies": {
     "ajv": "^5.3.0",
+    "flow-bin": "^0.86.0",
     "husky": "^0.14.3",
     "jest": "^22.4.3",
     "json-dup-key-validator": "^1.0.2",
+    "json-schema-to-flow-type": "^1.0.0",
     "lint-staged": "^4.3.0",
     "lodash": "^4.17.5",
     "pixl-xml": "^1.0.10",
